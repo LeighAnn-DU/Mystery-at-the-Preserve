@@ -31,7 +31,7 @@ st.header("*Introduction*")
 st.markdown('# "Cheep" Shots:   Suspense at the Wildlife Preserve')
 st.image("RCBPpic.png")
 
-audio_file = open("ALL BIRDS/Rose-Crested-Blue-Pipit-162563.mp3", "rb")
+audio_file = open("Rose-Crested-Blue-Pipit-162563.mp3", "rb")
 st.audio(audio_file.read())
 
 st.markdown("#### Paul O'Leary")
