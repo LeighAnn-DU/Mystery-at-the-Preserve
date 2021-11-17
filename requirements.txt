@@ -4,4 +4,4 @@ plotly==5.4.0
 plotly_express==0.4.1
 streamlit==0.81.1
 pillow==8.4.0
-re==2.2.1
+
